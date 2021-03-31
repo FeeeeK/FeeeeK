@@ -4,7 +4,7 @@
 
 ## About me:
 
-- Junior developer from Rostov-on-Don
+- Junior developer from Moscow
 - Backend / Frontend
 - Discord / VK / Telegram bots
 

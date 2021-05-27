@@ -5,8 +5,8 @@
 ## About me:
 
 - Junior developer from Moscow
-- Backend / Frontend
 - Discord / VK / Telegram bots
+- Backend
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=feeeek&show_icons=true&bg_color=1f272e&icon_color=4f8a89&text_color=708192&title_color=4f8a89&count_private=true&custom_title=My%20GitHub%20stats:&hide_border=true)](https://github.com/feeeek)
 
